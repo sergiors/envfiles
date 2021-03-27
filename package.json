@@ -1,0 +1,17 @@
+{
+  "name": "lib",
+  "dependencies": {
+    "npm": {
+      "version": "7.7.5"
+    },
+    "prettier": {
+      "version": "2.2.1"
+    },
+    "serverless": {
+      "version": "2.31.0"
+    },
+    "yarn": {
+      "version": "1.22.10"
+    }
+  }
+}
