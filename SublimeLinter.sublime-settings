@@ -1,0 +1,6 @@
+// SublimeLinter Settings - User
+{
+    "paths": {
+        "osx": ["~/Library/Python/3.8/bin"]
+    }
+}

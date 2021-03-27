@@ -1,0 +1,44 @@
+{
+	"auto_format_on_save": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"package-lock.json"
+	],
+	"folder_exclude_patterns":
+	[
+		"__pycache__",
+		".pytest_cache",
+		"node_modules",
+		".serverless",
+		".mypy_cache",
+		".next",
+		"build"
+	],
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets": true,
+	"parameters":
+	[
+		"--open-in-tab"
+	],
+	"remember_open_files": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
