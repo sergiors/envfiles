@@ -1,14 +1,17 @@
 {
   "name": "lib",
   "dependencies": {
+    "npm-check-updates": {
+      "version": "11.5.10"
+    },
     "npm": {
-      "version": "7.7.5"
+      "version": "7.11.2"
     },
     "prettier": {
       "version": "2.2.1"
     },
     "serverless": {
-      "version": "2.31.0"
+      "version": "2.39.1"
     },
     "yarn": {
       "version": "1.22.10"
