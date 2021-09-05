@@ -6,6 +6,7 @@ docker-compose
 git
 htop
 iftop
+bpytop
 node
 python@3.8
 firefox
@@ -15,5 +16,5 @@ iterm2
 macpass
 ngrok
 slack
-spotify
+tidal
 sublime-text
