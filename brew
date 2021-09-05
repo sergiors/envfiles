@@ -1,3 +1,6 @@
+brew tap teamookla/speedtest
+brew tap homebrew/cask-fonts
+
 docker
 docker-compose
 git
