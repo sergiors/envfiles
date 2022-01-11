@@ -20,3 +20,4 @@ set listchars=space:·
 
 hi CursorLine cterm=NONE ctermbg=8 ctermfg=NONE
 hi ColorColumn ctermbg=gray
+hi SpecialKey ctermfg=8 guifg=grey70
